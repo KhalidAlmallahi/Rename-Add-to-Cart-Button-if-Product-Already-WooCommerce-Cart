@@ -8,5 +8,4 @@ The “Add to Cart” button label comes with a filter (actually 2 filters, one 
 Change the WooCommerce Add to Cart button label if Product is already in the Cart
 
 
-# PHP Snippet: Rename “Add to Cart” Button if Product Already @ WooCommerce Cart
 
